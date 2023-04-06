@@ -70,6 +70,4 @@ We call it “attention CPM” or **aCPM**.
 The _cost of 1 second of actual attention per 1000 contacts_. 
 Something we explain in detail in our white paper.
 
-[Download our conclusions](https://effectiveviews.be/wp-content/uploads/White_Paper_From_Viewable_to_viewed.pdf){ .md-button }
-
 What does aCPM mean for your brand? [Contact us!](mailto:sales@brightfish.be)
