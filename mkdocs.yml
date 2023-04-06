@@ -1,0 +1,43 @@
+site_name: Effective Views by Brightfish
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: blue
+  font:
+    text: Nunito
+  logo: https://effectiveviews.be/wp-content/themes/brightfish/img/logo.svg
+  features:
+    - navigation.instant
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Dutch
+      link: /nl/
+      lang: nl
+    - name: French
+      link: /fr/
+      lang: fr
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/brightfish
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/brightfish_be/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/brightfishbe/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: Copyright &copy; 2019 - 2022 Brightfish nv
