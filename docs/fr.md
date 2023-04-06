@@ -1,6 +1,6 @@
 # CPM d'attention
 
-![](img/EV_lionKing_hero.png)
+![Hakuna Ma-data](img/EV_lionKing_hero.png){ loading=lazy }
 
 ## Monkey See, Monkey Do.
 
